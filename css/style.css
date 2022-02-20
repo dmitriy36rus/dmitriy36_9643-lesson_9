@@ -243,7 +243,7 @@ h2{
 .image-success{
     visibility: hidden;
 }
-.image-item1{
+.image-success img{
     max-width: 100%;
     width:auto;
     height:auto;
@@ -345,7 +345,7 @@ h3{
 .image{
 margin-bottom: 60px;
 }
-.image-item{
+.image img{
     max-width: 100%;
     height: auto;
     width: auto;
