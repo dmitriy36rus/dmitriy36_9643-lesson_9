@@ -241,8 +241,12 @@ h2{
 	visibility: visible;
 }
 .image-success{
-    max-width: 500px;
     visibility: hidden;
+}
+.image-item1{
+    max-width: 100%;
+    width:auto;
+    height:auto;
 }
 .line-11:hover ~ .image-success,
 .image-success:hover{
@@ -340,9 +344,11 @@ h3{
 }
 .image{
 margin-bottom: 60px;
-max-width: 100%;
-height: auto;
-width: auto;
+}
+.image-item{
+    max-width: 100%;
+    height: auto;
+    width: auto;
 }
 .picture{
     width: 810px;
